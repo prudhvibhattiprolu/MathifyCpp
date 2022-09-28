@@ -41,7 +41,6 @@ CubeCpp[4]
 PowerCpp[4, 0.5]
 (*To find square-root of 4*)
 
-
 ```
 to start using the C++ code as a Mathematica package!
 And the documentation for each function provided in the Wolfram Language script `Power.wl` can be accessed by doing: 
@@ -55,6 +54,5 @@ And the documentation for each function provided in the Wolfram Language script 
 
 ?PowerCpp
 (*To print docstring of the function "PowerCpp"*)
-
 
 ```
